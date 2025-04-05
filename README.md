@@ -5,6 +5,13 @@ The following will demonstrate the ability to launch a website using AWS service
 S3 Bucket is created to hold the code that makes up the website:
 ![image](https://github.com/user-attachments/assets/5f4d5905-8ee6-44bb-a445-98efb8c6e3f4)
 
+Static Website hosting has been enabled:
+![image](https://github.com/user-attachments/assets/d2120123-d3c0-488c-91f9-fea2d0e33fbd)
+
+Bucket Policy set to Bucket ```staticwebbuck```:
+![image](https://github.com/user-attachments/assets/5345e006-d294-4079-878e-16b87374a024)
+
+
 The following shows the CloudFront service that is used to launch the website:
 ![image](https://github.com/user-attachments/assets/f12bbb91-0a75-4031-b940-7304c1168cb8)
 
