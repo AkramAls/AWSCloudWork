@@ -1,6 +1,6 @@
 # AWSCloudWork
 
-The following will demonstrate the ability to launch a website using AWS services S3 and CloudFront.
+The following will demonstrate my ability to launch a website using AWS services S3 and CloudFront. The Website is static, but the following was done in descending order from created the S3 bucket to launching by 3 different URLs based on the CloudFront distribution created.
 
 S3 Bucket is created to hold the code that makes up the website:
 ![image](https://github.com/user-attachments/assets/5f4d5905-8ee6-44bb-a445-98efb8c6e3f4)
@@ -19,6 +19,7 @@ The following shows the CloudFront service that is used to launch the website:
 
 ![image](https://github.com/user-attachments/assets/fcf262c7-1575-4c8b-bbf4-584fd3c429d3)
 
+Note: The CloudFront distribution and S3 bucket have been deleted to avoid occuring AWS cost. The below links shows 3 URLs that would have led to the website depending on where you launch from. The website are secured connections, but not the website-endpoint.
 CloudFront Domain Name:
 ```https://d1px30uxy68g57.cloudfront.net/index.html```
 
